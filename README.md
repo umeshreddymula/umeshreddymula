@@ -29,6 +29,6 @@ I specialize in building **scalable backend systems**, **high-performance data p
 
 - LinkedIn: [www.linkedin.com/in/umesh-reddy-mula ](https://www.linkedin.com/in/umesh-reddy-mula/)
 
--Medium: https://medium.com/@umeshreddy1709
+- Medium: https://medium.com/@umeshreddy1709
 
 ---
